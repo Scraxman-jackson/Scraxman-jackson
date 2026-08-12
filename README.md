@@ -12,12 +12,12 @@
 
 ### 💖 About Me
 
-* 🔭 **Currently working on**: Personal web development projects
-* 👯 **Looking to collaborate on**: Projects focused on environmental solutions, social good, or open source
-* 🤝 **Looking for help with**: Deepening programming best practices and game development
-* 🌱 **Currently learning**: Web development, Linux configurations & coding fundamentals
-* 💬 **Ask me about**: Linux, IT support, web development, or tech for social impact!
-* ⚡ **Fun fact**: I love exploring how code can build tools for a better world!
+*  **Currently working on**: Personal web development projects
+*  **Looking to collaborate on**: Projects focused on environmental solutions, social good, or open source
+*  **Looking for help with**: Deepening programming best practices and game development
+*  **Currently learning**: Web development, Linux configurations & coding fundamentals
+*  **Ask me about**: Linux, IT support, web development, or tech for social impact!
+* **Fun fact**: I love exploring how code can build tools for a better world!
 
 ---
 
