@@ -1,3 +1,4 @@
+<img width="1200" height="752" alt="melody" src="https://github.com/user-attachments/assets/d6cab214-761f-445c-bc6e-57e98f126d00" />
 <div align="center">
 
 # Hi there, I'm Shanely! 🌸
